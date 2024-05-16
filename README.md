@@ -1,5 +1,5 @@
 # tripleten
-## App creates a scatter plot and box plot using plotly express at streamlit via python.
+## App creates a scatter plot and box plot using plotly express via python.
 
 Development Environment: Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
 
